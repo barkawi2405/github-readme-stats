@@ -461,6 +461,11 @@ export const themes = {
     text_color: "ffffff",
     icon_color: "ffffff",
     bg_color: "35,4158d0,c850c0,ffcc70",
+  pistacchio: {
+    title_color: "8DAB7F",
+    text_color: "8DAB7F",
+    icon_color: "CFEE9E",
+    bg_color: "101811",
   },
 };
 
